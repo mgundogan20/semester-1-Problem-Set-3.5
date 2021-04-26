@@ -1,0 +1,204 @@
+{
+  "tests": [
+    {
+      "name": "permutations1",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_permutations1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "permutations2",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_permutations2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "permutations3",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_permutations3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "permutations4",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_permutations4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "permutations5",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_permutations5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "powerset1",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_powerset1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "powerset2",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_powerset2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "powerset3",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_powerset3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "powerset4",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_powerset4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "powerset5",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_powerset5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "determinant1",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_determinant1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "determinant2",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_determinant2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "determinant3",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_determinant3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "determinant4",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_determinant4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "determinant5",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_determinant5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "grid1",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_grid1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "grid2",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_grid2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "grid3",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_grid3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "grid4",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_grid4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    },
+    {
+      "name": "grid5",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_cases.py::test_grid5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    }
+  ]
+}
